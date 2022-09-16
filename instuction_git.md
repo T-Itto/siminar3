@@ -11,3 +11,23 @@ Git - это система контроля версий. Нужна для т�
     git init
 
 ## Проверка состояния репозитория
+
+    git status
+
+    git add <felename>
+
+    git commit
+
+    git commit -m "Messege"
+
+    git commit -a
+
+    git commit -am "Massege"
+
+    git log 
+
+    git --onelene --all
+
+    git diff
+
+    git checkout
